@@ -24,7 +24,7 @@ artisan sitemap:generate type path-to-file
 First, install the package via composer:
 
 ``` bash
-composer require spatie/laravel-sitemap
+composer require romanv/sitemap
 ```
 
 ## Configuration
